@@ -27,7 +27,6 @@ for valor in valores:
         dias=dias+1
     
 
-print(valores)
 
 print("O número de dias com faturamento em que o faturamento foi maior que a média: {} ".format(dias))
 print("O menor valor ocorrido dentre os dias com faturamento: {}".format(menor))
